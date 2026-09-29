@@ -283,8 +283,8 @@
                 "PNG",
                 0,
                 0,
-                img.naturalWidth,
-                img.naturalHeight
+                pageWidth,
+                pageHeight
             );
         }
 
